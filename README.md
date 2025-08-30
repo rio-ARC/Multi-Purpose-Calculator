@@ -51,8 +51,8 @@ This live demo is hosted on GitHub Pages and provides full access to all calcula
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/multi-calculator-suite.git
-cd multi-calculator-suite
+git clone https://github.com/rio-ARC/Multi-Purpose-Calculator
+cd Multi-Purpose-Calculator
 ```
 
 2. **Install dependencies**
@@ -185,7 +185,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Exchange Rate API** for providing reliable currency conversion data
 - **Tailwind CSS** team for the excellent utility-first framework
 - **Modern web standards** that make this application possible
-- Built with ❤️ using [Rocket.new](https://rocket.new)
 
 ## 📞 Support
 
